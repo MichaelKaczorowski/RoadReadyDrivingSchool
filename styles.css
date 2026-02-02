@@ -1,0 +1,25 @@
+H1 {text-align: center; color: darkblue; font: 30pt arial, geneva, sans-serif; font-weight: bold}
+	  H2 {text-align: center; color: darkblue; font: 20pt arial, geneva, sans-serif; font-weight: bold}
+	  H3 {text-align: center; color: darkblue; font: 14pt arial, geneva, sans-serif; font-weight: bold}
+	  H4 {text-align: left; color: darkblue; font: 12pt arial, geneva, sans-serif; font-weight: bold}
+    TD {font: 10pt arial}
+	  a:link {text-decoration:underline; color: darkblue; font: 10pt arial; font-weight: bold}
+	  a:hover {text-decoration:none; color: blue; font: 10pt arial; font-weight: bold}
+	  a:active {text-decoration:none; color: red; font: 10pt arial; font-weight: bold}
+	  a:visited {text-decoration:underline; color: darkblue; font: 10pt arial; font-weight: bold}
+	  BODY {scrollbar-3dlight-color:#006400;
+          scrollbar-arrow-color:#008080;
+          scrollbar-base-color:#006400;
+          scrollbar-track-color:#037A06;
+          scrollbar-darkshadow-color:#FFD700;
+          scrollbar-face-color:#03DD03;
+          scrollbar-highlight-color:#8B008B;
+          scrollbar-shadow-color:#00FFFF}
+    .TITLE {background-image: url(http://www.roadreadydrivingschool.com/images/rolling_tires_s.jpg);
+           background-repeat: no-repeat;
+           background-attachment: fixed;
+           background-position: 50% 50%;}
+    .WATER {background-image: url(http://www.roadreadydrivingschool.com/images/blackcar_fade.jpg);
+           background-repeat: no-repeat;
+           background-attachment: fixed;
+           background-position: center center;}

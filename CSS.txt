@@ -1,0 +1,10 @@
+// set the colors for scrollbars//
+
+BODY {scrollbar-3dlight-color:#006400;
+          scrollbar-arrow-color:#DC143C;
+          scrollbar-base-color:#006400;
+          scrollbar-track-color:#ADFF2F;
+          scrollbar-darkshadow-color:#FFD700;
+          scrollbar-face-color:#FF8C00;
+          scrollbar-highlight-color:#8B008B;
+          scrollbar-shadow-color:#00FFFF}
